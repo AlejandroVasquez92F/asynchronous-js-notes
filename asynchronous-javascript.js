@@ -1,6 +1,7 @@
 /*
     asynchronous javascript notes:
         - https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Introducing
+        - https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Promises?authuser=0
 */
 
 /*
